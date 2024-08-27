@@ -15,11 +15,11 @@ with sql3.connect('users.db') as connection:
         ('Bob', 5500),
         ('Charlie', 6000),
         ('David', 6500),
-        ('Eve', 7000),
+        ('Ivy', 7000),
         ('Frank', 7500),
-        ('Grace', 8000),
+        ('Alex', 8000),
         ('Heidi', 8500),
-        ('Ivan', 9000),
+        ('Marcie', 9000),
         ('Judy', 9500)
     ''')
 
